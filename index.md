@@ -14,3 +14,7 @@ print("Test Python code block")
 select name, id
 from student
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
